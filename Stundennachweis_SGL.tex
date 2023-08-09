@@ -1,0 +1,52 @@
+%%------------------------------------------------------------------------------
+%%Klasse
+%%------------------------------------------------------------------------------
+\documentclass[10pt,a4paper,twoside=false,DIV=calc]{scrartcl}
+%%------------------------------------------------------------------------------
+%%Packages
+%%------------------------------------------------------------------------------
+\usepackage{scrlayer-scrpage}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage[svgnames,natural,table]{xcolor}
+\usepackage{graphicx}
+\usepackage[ngerman]{babel}
+\usepackage{microtype}
+\usepackage{booktabs}
+\usepackage{multicol}
+\usepackage{libertinus}
+\usepackage{mwe}
+\usepackage{tabularx}
+\usepackage[german]{layout}
+\usepackage{printlen}
+\usepackage{calc}
+\usepackage{wallpaper}
+\usepackage[absolute]{textpos}
+\TileWallPaper{\paperwidth}{\paperheight}{gfx/20230808_UeL_Stundennachweis.PDF}
+%%------------------------------------------------------------------------------
+%%Vereinbarungen
+%%------------------------------------------------------------------------------
+\clearpairofpagestyles
+\pagestyle{scrheadings}
+\renewcommand{\familydefault}{\sfdefault}
+%%------------------------------------------------------------------------------
+%%Eigene Definitionen
+%%------------------------------------------------------------------------------
+\include{sglmacros.tex}
+%%------------------------------------------------------------------------------
+%%PDF Informationen
+%%------------------------------------------------------------------------------
+\title{Stundennachweis SGL - \LaTeXe}
+\author{Sascha Christmann}
+ %%------------------------------------------------------------------------------
+\begin{document}
+
+\input{statisch.tex}
+\input{tabelle.tex}
+
+
+
+%%------------------------------------------------------------------------------
+\end{document}
