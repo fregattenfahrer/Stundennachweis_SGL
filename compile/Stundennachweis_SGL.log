@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.8)  9 AUG 2023 14:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.9.5)  5 SEP 2023 14:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./Stundennachweis_SGL.tex
 (Stundennachweis_SGL.tex
 LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-06-30>
+L3 programming layer <2023-08-29>
 
 (C:\Users\sesa246318\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrart
 cl.cls
@@ -426,7 +426,7 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 \Gin@req@width=\dimen156
 )
 (C:\Users\sesa246318\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2023/07/15 v3.92 The Babel package
+Package: babel 2023/08/29 v3.93 The Babel package
 \babel@savecnt=\count276
 \U@D=\dimen157
 \l@unhyphenated=\language79
@@ -635,7 +635,7 @@ Package: mwe 2018/03/30 v0.5 Package to support minimal working examples (MWE)
 (C:\Users\sesa246318\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2
 e\l3keys2e.sty
 (C:\Users\sesa246318\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2023-06-30 L3 programming layer (loader) 
+Package: expl3 2023-08-29 L3 programming layer (loader) 
 
 (C:\Users\sesa246318\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backen
 d-pdftex.def
@@ -643,7 +643,7 @@ File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count295
 \l__pdf_internal_box=\box102
 ))
-Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2023-08-29 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count296
@@ -996,16 +996,16 @@ MiKTeX/fonts/enc/dvips/libertinus-type1/lbts_4mrx7q.enc}
  <./gfx/20230808_UeL_Stundennachweis.PDF>] (Stundennachweis_SGL.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-06-30>
+L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `Stundennachweis_SGL.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19478 strings out of 475550
- 379193 string characters out of 5760174
- 1940238 words of memory out of 5000000
- 40347 multiletter control sequences out of 15000+600000
+ 19478 strings out of 475247
+ 379229 string characters out of 5755433
+ 1941801 words of memory out of 5000000
+ 40650 multiletter control sequences out of 15000+600000
  599923 words of font info for 86 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,19n,107p,10945b,483s stack positions out of 10000i,1000n,20000p,200000b,200000s
