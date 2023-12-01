@@ -1,5 +1,0 @@
-[0] Config.pm:307> INFO - This is Biber 2.19
-[0] Config.pm:310> INFO - Logfile is 'Stundennachweis_SGL.blg'
-[113] biber-MSWIN64:340> INFO - === 
-[604] Utils.pm:410> ERROR - Cannot find 'Stundennachweis_SGL.bcf'!
-[604] Biber.pm:136> INFO - ERRORS: 1
